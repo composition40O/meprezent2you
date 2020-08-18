@@ -9,11 +9,11 @@ reveal:
   title_slide:        true
 
 # Setup
-title:                Jekyll and Slide
-tagline:              "Markdown slides in Jekyll using reveal.js"
-description:          "A template for creating slide decks using Markdown and <a href='//jekyllrb.com'>Jekyll</a>, using <a href='//github.com/poole/lanyon'>Lanyon</a> by <a href='//twitter.com/mdo'>@mdo</a>."
-url:                  http://admhlt.github.io/jekyll-and-slide
-baseurl:              /jekyll-and-slide
+title:                meprezent2you
+tagline:              "Pretty presentations for the people"
+description:          "Pretty presentations for the people"
+url:                  https://github.com/composition40O/meprezent2you
+baseurl:              /meprezent2you
 markdown:             kramdown
 kramdown:
   input:              GFM
@@ -25,9 +25,9 @@ collections:
 
 # About/contact
 author:
-  name:               Adam Hollett
-  url:                https://twitter.com/admhlt
-  email:              mail@adamhollett.com
+  name:               composition40O
+  url:
+  email:
 
 # YAML defaults
 defaults:
